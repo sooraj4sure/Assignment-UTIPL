@@ -3,6 +3,7 @@
 A two-part data project combining **SQL Server analytics on the Northwind database** and a **live currency exchange rate tracker**, visualized through an interactive Streamlit dashboard.
 
 ---
+| Streamlit Live Dashboard Demo | https://assignment-utipl.streamlit.app/ |
 
 ##  Project Structure
 
